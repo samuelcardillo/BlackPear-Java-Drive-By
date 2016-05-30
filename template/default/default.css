@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+#banner	{
+	width: 512px;
+	height: 200px;
+}
+
+#footer_text {
+	bottom: 0px;
+	position: fixed;
+}
+
+#menulink {
+	text-decoration: none;
+	color: blank;
+}

